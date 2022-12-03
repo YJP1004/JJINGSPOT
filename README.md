@@ -1,5 +1,8 @@
 # 꾸팟 이용 가이드
 
+# e-Mail: killingtime794@gmail.com
+
+
 ## 1️⃣  꾸팟을 실행 한 후, 텍스트창 우측의 마커아이콘을 터치합니다..
 <p align="center">
   <br>
