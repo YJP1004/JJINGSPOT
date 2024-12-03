@@ -23,6 +23,3 @@
   <img src="3.png" width="200">
   <br>
 </p>
-
-## 찡구샵
-[![찡구](banner.png)](https://smartstore.naver.com/jjinggu)
